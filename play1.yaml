@@ -1,4 +1,5 @@
 ---
+
  - hosts: groupUbuntu
    name: play1
    tasks: 
